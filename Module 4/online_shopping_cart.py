@@ -26,6 +26,7 @@ class ItemToPurchase:
 
     def print_item_cost(self):
         total = self.item_price * self.item_quantity
+        print(f"{self.item_name} {self.item_quantity} @ ${self.item_price:.2f} = ${total:.2f}")
 
 
 if __name__ == "__main__":
