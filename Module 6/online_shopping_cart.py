@@ -1,6 +1,11 @@
 """
-# Module 4 : Portfolio Milestone
+# Module 6 : Portfolio Milestone
 # Online Shopping Cart
+# Jeremy Matthews
+# Colorado State University Global
+# CSC500– Principles of Programming
+# Dr. Douglas Mujeye
+# Due Date: 03/22/26
 #
 # Step 1: Build the ItemToPurchase class with the following specifications:
 #
